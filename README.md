@@ -48,10 +48,10 @@ Get started with your Hello World package installer via the
 [Basic guide to write Gentoo Ebuilds](https://wiki.gentoo.org/wiki/Basic_guide_to_write_Gentoo_Ebuilds).
 
 ## Custom Repositories
-Technically speaking, this project is nothing but a [custome localrepo](https://wiki.gentoo.org/wiki/Custom_repository)
+Technically speaking, this project is nothing but a [custom localrepo](https://wiki.gentoo.org/wiki/Custom_repository)
 of 3rd party Ebuilds.
 
 ## Installing Ebuilds from this repo
-As a user of Gentoo, you would setup your own [custome localrepo](https://wiki.gentoo.org/wiki/Custom_repository)
+As a user of Gentoo, you would setup your own [custom localrepo](https://wiki.gentoo.org/wiki/Custom_repository)
 and use the ebuild from this repo until this evolve (if ever) big enough and useful enough for me to publish it
 via [layman](https://wiki.gentoo.org/wiki/Layman).
