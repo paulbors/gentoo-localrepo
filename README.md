@@ -6,7 +6,7 @@ Fixes and patches to Gentoo Linux default tree.
   * [Table of Contents](#table-of-contents)
 * [What is Gentoo?](#what-is-gentoo)
 * [Installing Gentoo Linux](#installing-gentoo-linux)
-* [Why this project?](#why-this-project?)
+* [Why this project?](#why-this-project)
 * [Gentoo Ebuilds](#gentoo-ebuilds)
   * [Basic guide to write Gentoo Ebuilds](#basic-guide-to-write-gentoo-ebuilds)
   * [Custom Repositories](#custom-repositories)
