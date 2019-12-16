@@ -11,7 +11,7 @@ Fixes and patches to Gentoo Linux default tree.
 * [Gentoo Ebuilds](#gentoo-ebuilds)
   * [Basic guide to write Gentoo Ebuilds](#basic-guide-to-write-gentoo-ebuilds)
   * [Custom Repositories](#custom-repositories)
-  * [Installing Ebuilds from this repo](installing-ebuilds-from-this-repo)
+  * [Installing Ebuilds from this repo](#installing-ebuilds-from-this-repo)
 
 ## What is Gentoo?
 Gentoo is a free operating system based on Linux that can be automatically
