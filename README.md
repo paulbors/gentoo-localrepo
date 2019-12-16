@@ -24,9 +24,9 @@ You can start by reading the [Gentoo Handbook](https://wiki.gentoo.org/wiki/Hand
 
 ## Why this project?
 While looking over [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow),
-I wanted to try it out on my favorite Linux distro and it turns out that at the time I wanted to install it the distro
-was a bit unstable when it came to the packages. While it core developers were fixing those packages quite fast, I wanted
-to have my own cake and eat it too (patch before release).
+I wanted to try it out on my favorite Linux distro and it turns out that at the time I wanted to install it Tensorflow
+[was a bit unstable](https://github.com/tensorflow/tensorflow/issues/33108) when it came to the packages. While the core
+developers were fixing those packages quite fast, I wanted to have my own cake and eat it too (patch before release).
 
 Then I decided to keep the older patches in case I wanted to port them from one machine to another in order to distribute
 the model training.
