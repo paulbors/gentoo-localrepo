@@ -23,13 +23,18 @@ Gentoo compiles from source but is not Linux From Surce.
 You can start by reading the [Gentoo Handbook](https://wiki.gentoo.org/wiki/Handbook:Main_Page) for your architecture.
 
 ## Why this project?
-While looking over [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow),
+It started in 2019 While looking over [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow),
 I wanted to try it out on my favorite Linux distro and it turns out that at the time I wanted to install it Tensorflow
 [was a bit unstable](https://github.com/tensorflow/tensorflow/issues/33108) when it came to the packages. While the core
 developers were fixing those packages quite fast, I wanted to have my own cake and eat it too (patch before release).
 
 Then I decided to keep the older patches in case I wanted to port them from one machine to another in order to distribute
 the model training.
+
+Then over time I added other ebuilds that I found useful and were not yet supported by Gentoo officail release such as the RTL USB
+kernel driver for RTL88x2bu [AC1200 Techkey].
+
+Some of those ebuilds have been patched by Gentoo and some might never be accepted. Use on your own risk.
 
 ### Which bug fixes are published here?
 By the time you read this chances are that most of the bug fixes would find its way into the official
